@@ -1,8 +1,9 @@
 # Meu-primeiro-repositorio
 
-#### Este é o meu primeiro repositorio no Github onde vou listar alguns comandos que acredito serem importantes memorizar
+#### Este é o meu primeiro repositorio no Github onde vou listar alguns comandos que acredito ser importante memorizar
 
  <ul>
+
   <li>git init - inicia o git na pasta onde o git bash foi inicializado</li>
   <li>ls - lista todos arquivos onde o git bash foi inicializado</li>
   <li>git status - revela arquivos e alteração que precisam ser commitados</li>
@@ -19,5 +20,6 @@
   <li>git pull - pucha as alterações feitas no repositorio remoto </li>
   <li>git remote set-url "enderço Web do diretorio" - reseta o endereço vinculado </li>
   </ul>
+  
 
 ![Giticon](https://git-scm.com/images/logos/downloads/Git-Icon-White.png)
